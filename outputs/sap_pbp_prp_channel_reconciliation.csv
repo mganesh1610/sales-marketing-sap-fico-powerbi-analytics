@@ -1,0 +1,13 @@
+pbp_plan_id,prp_agreement_id,channel_group,segment_tier,total_records,engaged_count,converted_orders,gross_sales_usd,planned_pbp_budget_usd,actual_pbp_promo_spend_usd,effective_prp_rebate_bps,prp_rebate_accrual_usd,net_settled_revenue_usd,effective_cpa_usd,gross_roas
+PBP-01,PRP-01,Multichannel_Web_Email,High_Value_Pro,8373,1669,123,66412.3,48000.0,13717.45,450,2988.55,49706.3,111.52,4.84
+PBP-02,PRP-01,Multichannel_Web_Email,Mid_Market_Commercial,7943,1413,86,33322.04,42000.0,13546.35,450,1499.49,18276.2,157.52,2.46
+PBP-03,PRP-01,Multichannel_Web_Email,Entry_Consumer,10290,1635,98,28717.83,36000.0,18354.0,450,1292.3,9071.53,187.29,1.56
+PBP-04,PRP-02,Direct_Email_Promo,High_Value_Pro,6114,1019,75,40373.05,39000.0,7638.1,400,1614.92,31120.03,101.84,5.29
+PBP-05,PRP-02,Direct_Email_Promo,Mid_Market_Commercial,10691,1490,85,33767.55,35000.0,12794.35,400,1350.7,19622.5,150.52,2.64
+PBP-06,PRP-02,Direct_Email_Promo,Entry_Consumer,20589,2168,111,32035.36,31000.0,23040.55,400,1281.41,7713.4,207.57,1.39
+PBP-07,PRP-03,Outbound_Tele_Sales,High_Value_Pro,5645,3252,1156,670480.0,52000.0,31428.8,675,45257.4,593793.8,27.19,21.33
+PBP-08,PRP-03,Outbound_Tele_Sales,Mid_Market_Commercial,8507,4675,1395,544050.0,46000.0,47702.7,675,36723.38,459623.92,34.2,11.41
+PBP-09,PRP-03,Outbound_Tele_Sales,Entry_Consumer,15133,7645,1818,436320.0,38000.0,91526.7,675,29451.6,315341.7,50.34,4.77
+PBP-10,PRP-04,Partner_Dealer_Portal,High_Value_Pro,2861,1401,253,146740.0,45000.0,17594.75,600,8804.4,120340.85,69.54,8.34
+PBP-11,PRP-04,Partner_Dealer_Portal,Mid_Market_Commercial,4561,2270,303,118170.0,40000.0,27441.5,600,7090.2,83638.3,90.57,4.31
+PBP-12,PRP-04,Partner_Dealer_Portal,Entry_Consumer,8504,4132,364,87360.0,34000.0,52874.15,600,5241.6,29244.25,145.26,1.65

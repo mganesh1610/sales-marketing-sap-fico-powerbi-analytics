@@ -1,0 +1,13 @@
+check_id,domain,metric,status,variance_usd
+CHK-01,SAP_FICO_PBP,Promotional Budget vs Subledger Completeness,PASS,0.0
+CHK-02,SAP_FICO_PRP,Partner Tiered Rebate Basis-Point Accrual Parity,PASS,0.0
+CHK-03,SAP_FICO_GL,Gross-to-Net Revenue Conservation ($0.00 Drift),PASS,0.0
+CHK-04,MS_ACCESS_DDL,Primary/Foreign Key Referential Integrity (12 Plans),PASS,0.0
+CHK-05,MS_ACCESS_QUERY,Parameter Query & Calculated Field Null Safety,PASS,0.0
+CHK-06,EXCEL_PIVOT,Cross-Tab Channel x Segment Sum Conservation,PASS,0.0
+CHK-07,EXCEL_VBA_MACRO,Automated Refresh & Error-Trap Execution Gate,PASS,0.0
+CHK-08,POWER_BI_DAX,LOOKUPVALUE & TREATAS Relationship Filter Integrity,PASS,0.0
+CHK-09,POWER_BI_GATEWAY,Scheduled Workspace Refresh & Credential Check,PASS,0.0
+CHK-10,TABLEAU_LOOKER,Cross-BI KPI Metric Definition Parity,PASS,0.0
+CHK-11,DATA_CLEANING,Leading/Trailing Whitespace & Duplicate Key Purge,PASS,0.0
+CHK-12,PROCESS_FLOW,End-to-End 5-Stage SLA Gate Compliance,PASS,0.0
