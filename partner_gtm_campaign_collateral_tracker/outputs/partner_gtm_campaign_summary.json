@@ -1,0 +1,14 @@
+{
+  "combined_campaign_records": 109211,
+  "hillstrom_multichannel_rows": 64000,
+  "uci_commercial_campaign_rows": 45211,
+  "partner_kpi_mart_cohorts": 18,
+  "low_frequency_cvr_pct": 12.88,
+  "high_frequency_fatigue_cvr_pct": 6.41,
+  "frequency_fatigue_cvr_decay_pct": 50.25,
+  "warm_partner_reactivation_cvr_pct": 64.73,
+  "cold_outreach_cvr_pct": 9.86,
+  "warm_partner_cosell_lift_x": 6.56,
+  "governance_gates_passed": "10/10",
+  "all_gates_green": true
+}

@@ -1,0 +1,19 @@
+channel,gtm_motion,customer_insight_cohort,accounts_reached,landing_page_visits,closed_conversions,ctr_visit_pct,conversion_pct,attributed_revenue
+Multichannel,Mens E-Mail,Cross_Vendor_Bundle_Cohort,656,200,19,30.4878,2.8963,2192.16
+Multichannel,No E-Mail,Cross_Vendor_Bundle_Cohort,695,122,5,17.554,0.7194,638.73
+Multichannel,Womens E-Mail,Cross_Vendor_Bundle_Cohort,643,174,11,27.0607,1.7107,1295.47
+Phone,Mens E-Mail,Cross_Vendor_Bundle_Cohort,742,240,18,32.345,2.4259,2125.46
+Phone,No E-Mail,Cross_Vendor_Bundle_Cohort,729,125,7,17.1468,0.9602,896.68
+Phone,Womens E-Mail,Cross_Vendor_Bundle_Cohort,719,161,10,22.3922,1.3908,767.91
+Web,Mens E-Mail,Cross_Vendor_Bundle_Cohort,783,247,16,31.5453,2.0434,2236.57
+Web,No E-Mail,Cross_Vendor_Bundle_Cohort,725,141,8,19.4483,1.1034,1000.72
+Web,Womens E-Mail,Cross_Vendor_Bundle_Cohort,756,198,10,26.1905,1.3228,779.03
+Multichannel,Mens E-Mail,Single_Solution_Cohort,1921,345,25,17.9594,1.3014,2510.53
+Multichannel,No E-Mail,Single_Solution_Cohort,1911,213,13,11.146,0.6803,965.89
+Multichannel,Womens E-Mail,Single_Solution_Cohort,1936,279,25,14.4112,1.2913,3277.81
+Phone,Mens E-Mail,Single_Solution_Cohort,8498,1264,82,14.8741,0.9649,9041.33
+Phone,No E-Mail,Single_Solution_Cohort,8598,688,43,8.0019,0.5001,5114.13
+Phone,Womens E-Mail,Single_Solution_Cohort,8735,1085,57,12.4213,0.6525,7522.55
+Web,Mens E-Mail,Single_Solution_Cohort,8707,1598,107,18.353,1.2289,12205.64
+Web,No E-Mail,Single_Solution_Cohort,8648,973,46,11.2512,0.5319,5292.18
+Web,Womens E-Mail,Single_Solution_Cohort,8598,1341,76,15.5967,0.8839,9395.34
